@@ -1,0 +1,100 @@
+sending reply:  0043cafe01f701
+('193.181.246.203', 55915) wrote:
+RAW: 007acafe0151000f3836303531373034313838373830358e010000017a13f0c3e10005a8245c207fb9a50013005b0e001000000010000800010100160500470300f00100150400c80000ef0100fa010006004327650044000000b5000b00b6000800426e3500180010000200c70000f2fa00d80008e7d30000000001
+header:  007acafe0151
+bb:  000f
+imei_length:  15
+proceed data.... 860517041887805
+RETURN_DATA {'gps_time': datetime.datetime(2021, 6, 16, 10, 29, 43), 'rtc_time': datetime.datetime(2021, 6, 16, 10, 29, 43), 'output_status': '', 'temp2': 0, 'temp1': 0, 'gps_satelit': 14, 'rpm': 0, 'speed': 16, 'altitude': 19, 'ela': '', 'state': '', 'latitude': '54.5241509', 'accuracy': 8, 'mileage': 583, 'bl': '', 'digital_inp_stat1': 1, 'beacon': None, 'report_id': 0, 'longitude': '9.4905436', 'heading': 91, 'mv': '', 'ignition': 1, 'time': datetime.datetime(2021, 6, 16, 10, 29, 43), 'movement': 1, 'input_status': 28213, 'engine_on': 1}
+IO_DATA {'trip_odometer': 62202, 'int_battery_current': 0, 'gps_pdop': 11, 'int_battery_volt': 10085, 'ext_power_volt': 28213, 'digital_inp_stat1': 1, 'gps_hdop': 8, 'gnss_stat': 3, 'working_mode': 5, 'gsm_signal_lvl': 4, 'ignition': 1, 'deep_sleep': 0, 'total_odometer': 583635, 'speedometer': 16, 'trip': 1, 'movement': 1}
+{'gps_data': [{'angle': 91, 'io_element_count': 16, 'satellites': 14, 'timestamp': datetime.datetime(2021, 6, 16, 10, 29, 43), 'altitude': 19, 'longitude': '9.4905436', 'priority': 0, 'latitude': '54.5241509', 'io_event_id': 0, 'io_data': {'trip_odometer': 62202, 'int_battery_current': 0, 'gps_pdop': 11, 'int_battery_volt': 10085, 'ext_power_volt': 28213, 'digital_inp_stat1': 1, 'gps_hdop': 8, 'gnss_stat': 3, 'working_mode': 5, 'gsm_signal_lvl': 4, 'ignition': 1, 'deep_sleep': 0, 'total_odometer': 583635, 'speedometer': 16, 'trip': 1, 'movement': 1}, 'imei': '860517041887805', 'speed': 16}], 'avl_data_count': 1, 'avl_data_count_hex': '01', 'codec_id': '8e'}
+sending reply:  007acafe015101
+('193.181.246.203', 55915) wrote:
+RAW: 007acafe0152000f3836303531373034313838373830358e010000017a13f0df390005a834fc207fbcdb0011001f0e001100000010000800010100160500470300f00100150400c80000ef0100fa0100060043276a0044000000b5000b00b6000800426e0f00180011000200c70000f31b00d80008e7f40000000001
+header:  007acafe0152
+bb:  000f
+imei_length:  15
+proceed data.... 860517041887805
+RETURN_DATA {'gps_time': datetime.datetime(2021, 6, 16, 10, 29, 50), 'rtc_time': datetime.datetime(2021, 6, 16, 10, 29, 50), 'output_status': '', 'temp2': 0, 'temp1': 0, 'gps_satelit': 14, 'rpm': 0, 'speed': 17, 'altitude': 17, 'ela': '', 'state': '', 'latitude': '54.5242331', 'accuracy': 8, 'mileage': 583, 'bl': '', 'digital_inp_stat1': 1, 'beacon': None, 'report_id': 0, 'longitude': '9.4909692', 'heading': 31, 'mv': '', 'ignition': 1, 'time': datetime.datetime(2021, 6, 16, 10, 29, 50), 'movement': 1, 'input_status': 28175, 'engine_on': 1}
+IO_DATA {'trip_odometer': 62235, 'int_battery_current': 0, 'gps_pdop': 11, 'int_battery_volt': 10090, 'ext_power_volt': 28175, 'digital_inp_stat1': 1, 'gps_hdop': 8, 'gnss_stat': 3, 'working_mode': 5, 'gsm_signal_lvl': 4, 'ignition': 1, 'deep_sleep': 0, 'total_odometer': 583668, 'speedometer': 17, 'trip': 1, 'movement': 1}
+{'gps_data': [{'angle': 31, 'io_element_count': 16, 'satellites': 14, 'timestamp': datetime.datetime(2021, 6, 16, 10, 29, 50), 'altitude': 17, 'longitude': '9.4909692', 'priority': 0, 'latitude': '54.5242331', 'io_event_id': 0, 'io_data': {'trip_odometer': 62235, 'int_battery_current': 0, 'gps_pdop': 11, 'int_battery_volt': 10090, 'ext_power_volt': 28175, 'digital_inp_stat1': 1, 'gps_hdop': 8, 'gnss_stat': 3, 'working_mode': 5, 'gsm_signal_lvl': 4, 'ignition': 1, 'deep_sleep': 0, 'total_odometer': 583668, 'speedometer': 17, 'trip': 1, 'movement': 1}, 'imei': '860517041887805', 'speed': 17}], 'avl_data_count': 1, 'avl_data_count_hex': '01', 'codec_id': '8e'}
+sending reply:  007acafe015201
+('193.181.246.207', 32314) wrote:
+RAW: 006ccafe01f8000f3335393633333130303137343334368e010000017a13f0e0180005a7290c2112fa18fff800981400140000000c000600ef0100f00100010100020000030000fa01000400423693001800140043100e00090000000200c700001797001000572a360000000001
+header:  006ccafe01f8
+bb:  000f
+imei_length:  15
+proceed data.... 359633100174346
+RETURN_DATA {'gps_time': datetime.datetime(2021, 6, 16, 10, 29, 51), 'rtc_time': datetime.datetime(2021, 6, 16, 10, 29, 51), 'output_status': '', 'temp2': 0, 'temp1': 0, 'gps_satelit': 20, 'rpm': 0, 'speed': 20, 'altitude': -8, 'ela': '', 'state': '', 'latitude': '55.48918', 'accuracy': 1, 'mileage': 6, 'bl': '', 'digital_inp_stat1': 1, 'beacon': None, 'report_id': 0, 'longitude': '9.48411', 'heading': 152, 'mv': '', 'ignition': 1, 'time': datetime.datetime(2021, 6, 16, 10, 29, 51), 'movement': 1, 'input_status': 13971, 'engine_on': 1}
+IO_DATA {'total_odometer1': 5712438, 'ext_power_volt': 13971, 'digital_inp_stat1': 1, 'digital_inp_stat2': 0, 'digital_inp_stat3': 0, 'analog_inp1': 0, 'int_battery_volt': 4110, 'ignition': 1, 'trip_odometer': 6039, 'speedometer': 20, 'trip': 1, 'movement': 1}
+{'gps_data': [{'angle': 152, 'io_element_count': 12, 'satellites': 20, 'timestamp': datetime.datetime(2021, 6, 16, 10, 29, 51), 'altitude': -8, 'longitude': '9.48411', 'priority': 0, 'latitude': '55.48918', 'io_event_id': 0, 'io_data': {'total_odometer1': 5712438, 'ext_power_volt': 13971, 'digital_inp_stat1': 1, 'digital_inp_stat2': 0, 'digital_inp_stat3': 0, 'analog_inp1': 0, 'int_battery_volt': 4110, 'ignition': 1, 'trip_odometer': 6039, 'speedometer': 20, 'trip': 1, 'movement': 1}, 'imei': '359633100174346', 'speed': 20}], 'avl_data_count': 1, 'avl_data_count_hex': '01', 'codec_id': '8e'}
+sending reply:  006ccafe01f801
+('193.181.246.199', 50897) wrote:
+RAW: 006ccafe0100000f3335393633333130303138323532318e010000017a13f0fb700005dcd5cd21549cc3003300ad10000f0000000c000600ef0100f00100010100020000030000fa010004004272770018000f00431017000900ae000200c70000054b001002dbd7100000000001
+header:  006ccafe0100
+bb:  000f
+imei_length:  15
+proceed data.... 359633100182521
+RETURN_DATA {'gps_time': datetime.datetime(2021, 6, 16, 10, 29, 58), 'rtc_time': datetime.datetime(2021, 6, 16, 10, 29, 58), 'output_status': '', 'temp2': 0, 'temp1': 0, 'gps_satelit': 16, 'rpm': 0, 'speed': 15, 'altitude': 51, 'ela': '', 'state': '', 'latitude': '55.9193283', 'accuracy': 1, 'mileage': 1, 'bl': '', 'digital_inp_stat1': 1, 'beacon': None, 'report_id': 0, 'longitude': '9.8358733', 'heading': 173, 'mv': '', 'ignition': 1, 'time': datetime.datetime(2021, 6, 16, 10, 29, 58), 'movement': 1, 'input_status': 29303, 'engine_on': 1}
+IO_DATA {'total_odometer1': 47961872, 'ext_power_volt': 29303, 'digital_inp_stat1': 1, 'digital_inp_stat2': 0, 'digital_inp_stat3': 0, 'analog_inp1': 174, 'int_battery_volt': 4119, 'ignition': 1, 'trip_odometer': 1355, 'speedometer': 15, 'trip': 1, 'movement': 1}
+{'gps_data': [{'angle': 173, 'io_element_count': 12, 'satellites': 16, 'timestamp': datetime.datetime(2021, 6, 16, 10, 29, 58), 'altitude': 51, 'longitude': '9.8358733', 'priority': 0, 'latitude': '55.9193283', 'io_event_id': 0, 'io_data': {'total_odometer1': 47961872, 'ext_power_volt': 29303, 'digital_inp_stat1': 1, 'digital_inp_stat2': 0, 'digital_inp_stat3': 0, 'analog_inp1': 174, 'int_battery_volt': 4119, 'ignition': 1, 'trip_odometer': 1355, 'speedometer': 15, 'trip': 1, 'movement': 1}, 'imei': '359633100182521', 'speed': 15}], 'avl_data_count': 1, 'avl_data_count_hex': '01', 'codec_id': '8e'}
+sending reply:  006ccafe010001
+('193.181.246.207', 32314) wrote:
+RAW: 006ccafe01f9000f3335393633333130303137343334368e010000017a13f10b100005a73c942112e768fffd00621000110000000c000600ef0100f00100010100020000030000fa010004004236a0001800110043100e00090000000200c7000017d9001000572a780000000001
+header:  006ccafe01f9
+bb:  000f
+imei_length:  15
+proceed data.... 359633100174346
+RETURN_DATA {'gps_time': datetime.datetime(2021, 6, 16, 10, 30, 2), 'rtc_time': datetime.datetime(2021, 6, 16, 10, 30, 2), 'output_status': '', 'temp2': 0, 'temp1': 0, 'gps_satelit': 16, 'rpm': 0, 'speed': 17, 'altitude': -3, 'ela': '', 'state': '', 'latitude': '55.4887016', 'accuracy': 1, 'mileage': 6, 'bl': '', 'digital_inp_stat1': 1, 'beacon': None, 'report_id': 0, 'longitude': '9.48461', 'heading': 98, 'mv': '', 'ignition': 1, 'time': datetime.datetime(2021, 6, 16, 10, 30, 2), 'movement': 1, 'input_status': 13984, 'engine_on': 1}
+IO_DATA {'total_odometer1': 5712504, 'ext_power_volt': 13984, 'digital_inp_stat1': 1, 'digital_inp_stat2': 0, 'digital_inp_stat3': 0, 'analog_inp1': 0, 'int_battery_volt': 4110, 'ignition': 1, 'trip_odometer': 6105, 'speedometer': 17, 'trip': 1, 'movement': 1}
+{'gps_data': [{'angle': 98, 'io_element_count': 12, 'satellites': 16, 'timestamp': datetime.datetime(2021, 6, 16, 10, 30, 2), 'altitude': -3, 'longitude': '9.48461', 'priority': 0, 'latitude': '55.4887016', 'io_event_id': 0, 'io_data': {'total_odometer1': 5712504, 'ext_power_volt': 13984, 'digital_inp_stat1': 1, 'digital_inp_stat2': 0, 'digital_inp_stat3': 0, 'analog_inp1': 0, 'int_battery_volt': 4110, 'ignition': 1, 'trip_odometer': 6105, 'speedometer': 17, 'trip': 1, 'movement': 1}, 'imei': '359633100174346', 'speed': 17}], 'avl_data_count': 1, 'avl_data_count_hex': '01', 'codec_id': '8e'}
+sending reply:  006ccafe01f901
+('193.181.246.199', 50897) wrote:
+RAW: 006fcafe0101000f3335393633333130303138323532318e010000017a13f107330005dcd343215497c0003300c610001301810001000000000000000000010181002d112174278bdab64445208f0c720eaf059935000017ed9e2174278bdab64445208f0c720eaf05993500001781a101
+header:  006fcafe0101
+bb:  000f
+imei_length:  15
+proceed data.... 359633100182521
+RETURN_DATA {'gps_time': datetime.datetime(2021, 6, 16, 10, 30, 1), 'rtc_time': datetime.datetime(2021, 6, 16, 10, 30, 1), 'output_status': '', 'temp2': 0, 'temp1': 0, 'gps_satelit': 16, 'rpm': 0, 'speed': 19, 'altitude': 51, 'ela': '', 'state': '', 'latitude': '55.9192', 'accuracy': 1, 'mileage': 0, 'bl': '', 'digital_inp_stat1': 0, 'beacon': '112174278bdab64445208f0c720eaf059935000017ed9e2174278bdab64445208f0c720eaf05993500001781a1', 'report_id': 385, 'longitude': '9.8358083', 'heading': 198, 'mv': '', 'ignition': 0, 'time': datetime.datetime(2021, 6, 16, 10, 30, 1), 'movement': None, 'input_status': 0, 'engine_on': 0}
+IO_DATA {'beacon': '112174278bdab64445208f0c720eaf059935000017ed9e2174278bdab64445208f0c720eaf05993500001781a1'}
+{'gps_data': [{'angle': 198, 'io_element_count': 1, 'satellites': 16, 'timestamp': datetime.datetime(2021, 6, 16, 10, 30, 1), 'altitude': 51, 'longitude': '9.8358083', 'priority': 0, 'latitude': '55.9192', 'io_event_id': 385, 'io_data': {'beacon': '112174278bdab64445208f0c720eaf059935000017ed9e2174278bdab64445208f0c720eaf05993500001781a1'}, 'imei': '359633100182521', 'speed': 19}], 'avl_data_count': 1, 'avl_data_count_hex': '01', 'codec_id': '8e'}
+sending reply:  006fcafe010101
+('193.181.246.201', 39783) wrote:
+RAW: 007acafe0108000f3836373139383035393937383232358e010000017a13f1119700059ef8ec20f5d4e8003f00b50f005200000010000800010100160100470300f00100150400c80000ef0100fa010006004327db0044003200b5000a00b600060042718400180052000200c70003982300d80104be220000000001
+header:  007acafe0108
+bb:  000f
+imei_length:  15
+proceed data.... 867198059978225
+RETURN_DATA {'gps_time': datetime.datetime(2021, 6, 16, 10, 30, 3), 'rtc_time': datetime.datetime(2021, 6, 16, 10, 30, 3), 'output_status': '', 'temp2': 0, 'temp1': 0, 'gps_satelit': 15, 'rpm': 0, 'speed': 82, 'altitude': 63, 'ela': '', 'state': '', 'latitude': '55.2981736', 'accuracy': 6, 'mileage': 17088, 'bl': '', 'digital_inp_stat1': 1, 'beacon': None, 'report_id': 0, 'longitude': '9.4304492', 'heading': 181, 'mv': '', 'ignition': 1, 'time': datetime.datetime(2021, 6, 16, 10, 30, 3), 'movement': 1, 'input_status': 29060, 'engine_on': 1}
+IO_DATA {'trip_odometer': 235555, 'int_battery_current': 50, 'gps_pdop': 10, 'int_battery_volt': 10203, 'ext_power_volt': 29060, 'digital_inp_stat1': 1, 'gps_hdop': 6, 'gnss_stat': 3, 'working_mode': 1, 'gsm_signal_lvl': 4, 'ignition': 1, 'deep_sleep': 0, 'total_odometer': 17088034, 'speedometer': 82, 'trip': 1, 'movement': 1}
+{'gps_data': [{'angle': 181, 'io_element_count': 16, 'satellites': 15, 'timestamp': datetime.datetime(2021, 6, 16, 10, 30, 3), 'altitude': 63, 'longitude': '9.4304492', 'priority': 0, 'latitude': '55.2981736', 'io_event_id': 0, 'io_data': {'trip_odometer': 235555, 'int_battery_current': 50, 'gps_pdop': 10, 'int_battery_volt': 10203, 'ext_power_volt': 29060, 'digital_inp_stat1': 1, 'gps_hdop': 6, 'gnss_stat': 3, 'working_mode': 1, 'gsm_signal_lvl': 4, 'ignition': 1, 'deep_sleep': 0, 'total_odometer': 17088034, 'speedometer': 82, 'trip': 1, 'movement': 1}, 'imei': '867198059978225', 'speed': 82}], 'avl_data_count': 1, 'avl_data_count_hex': '01', 'codec_id': '8e'}
+sending reply:  007acafe010801
+('193.181.246.207', 32314) wrote:
+RAW: 006ccafe01fa000f3335393633333130303137343334368e010000017a13f11e980005a748d12112ea03000000351100080000000c000600ef0100f00100010100020000030000fa010004004236ac001800080043100e00090000000200c7000017ee001000572a8d0000000001
+header:  006ccafe01fa
+bb:  000f
+imei_length:  15
+proceed data.... 359633100174346
+RETURN_DATA {'gps_time': datetime.datetime(2021, 6, 16, 10, 30, 7), 'rtc_time': datetime.datetime(2021, 6, 16, 10, 30, 7), 'output_status': '', 'temp2': 0, 'temp1': 0, 'gps_satelit': 17, 'rpm': 0, 'speed': 8, 'altitude': 0, 'ela': '', 'state': '', 'latitude': '55.4887683', 'accuracy': 1, 'mileage': 6, 'bl': '', 'digital_inp_stat1': 1, 'beacon': None, 'report_id': 0, 'longitude': '9.4849233', 'heading': 53, 'mv': '', 'ignition': 1, 'time': datetime.datetime(2021, 6, 16, 10, 30, 7), 'movement': 1, 'input_status': 13996, 'engine_on': 1}
+IO_DATA {'total_odometer1': 5712525, 'ext_power_volt': 13996, 'digital_inp_stat1': 1, 'digital_inp_stat2': 0, 'digital_inp_stat3': 0, 'analog_inp1': 0, 'int_battery_volt': 4110, 'ignition': 1, 'trip_odometer': 6126, 'speedometer': 8, 'trip': 1, 'movement': 1}
+{'gps_data': [{'angle': 53, 'io_element_count': 12, 'satellites': 17, 'timestamp': datetime.datetime(2021, 6, 16, 10, 30, 7), 'altitude': 0, 'longitude': '9.4849233', 'priority': 0, 'latitude': '55.4887683', 'io_event_id': 0, 'io_data': {'total_odometer1': 5712525, 'ext_power_volt': 13996, 'digital_inp_stat1': 1, 'digital_inp_stat2': 0, 'digital_inp_stat3': 0, 'analog_inp1': 0, 'int_battery_volt': 4110, 'ignition': 1, 'trip_odometer': 6126, 'speedometer': 8, 'trip': 1, 'movement': 1}, 'imei': '359633100174346', 'speed': 8}], 'avl_data_count': 1, 'avl_data_count_hex': '01', 'codec_id': '8e'}
+sending reply:  006ccafe01fa01
+('193.181.246.203', 55915) wrote:
+RAW: 007acafe0153000f3836303531373034313838373830358e010000017a13f1311e0005a89c81207fe3930011003c0e003a00000010000800010100160500470300f00100150400c80000ef0100fa010006004327650044000000b5000b00b6000800426e170018003a000200c70000f3de00d80008e8b70000000001
+header:  007acafe0153
+bb:  000f
+imei_length:  15
+proceed data.... 860517041887805
+RETURN_DATA {'gps_time': datetime.datetime(2021, 6, 16, 10, 30, 11), 'rtc_time': datetime.datetime(2021, 6, 16, 10, 30, 11), 'output_status': '', 'temp2': 0, 'temp1': 0, 'gps_satelit': 14, 'rpm': 0, 'speed': 58, 'altitude': 17, 'ela': '', 'state': '', 'latitude': '54.5252243', 'accuracy': 8, 'mileage': 583, 'bl': '', 'digital_inp_stat1': 1, 'beacon': None, 'report_id': 0, 'longitude': '9.4936193', 'heading': 60, 'mv': '', 'ignition': 1, 'time': datetime.datetime(2021, 6, 16, 10, 30, 11), 'movement': 1, 'input_status': 28183, 'engine_on': 1}
+IO_DATA {'trip_odometer': 62430, 'int_battery_current': 0, 'gps_pdop': 11, 'int_battery_volt': 10085, 'ext_power_volt': 28183, 'digital_inp_stat1': 1, 'gps_hdop': 8, 'gnss_stat': 3, 'working_mode': 5, 'gsm_signal_lvl': 4, 'ignition': 1, 'deep_sleep': 0, 'total_odometer': 583863, 'speedometer': 58, 'trip': 1, 'movement': 1}
+{'gps_data': [{'angle': 60, 'io_element_count': 16, 'satellites': 14, 'timestamp': datetime.datetime(2021, 6, 16, 10, 30, 11), 'altitude': 17, 'longitude': '9.4936193', 'priority': 0, 'latitude': '54.5252243', 'io_event_id': 0, 'io_data': {'trip_odometer': 62430, 'int_battery_current': 0, 'gps_pdop': 11, 'int_battery_volt': 10085, 'ext_power_volt': 28183, 'digital_inp_stat1': 1, 'gps_hdop': 8, 'gnss_stat': 3, 'working_mode': 5, 'gsm_signal_lvl': 4, 'ignition': 1, 'deep_sleep': 0, 'total_odometer': 583863, 'speedometer': 58, 'trip': 1, 'movement': 1}, 'imei': '860517041887805', 'speed': 58}], 'avl_data_count': 1, 'avl_data_count_hex': '01', 'codec_id': '8e'}
+sending reply:  007acafe015301
+('193.181.246.201', 39783) wrote:
+RAW: 007acafe0109000f3836373139383035393937383232358e010000017a13f150a000059ef66d20f553d9004000b50f005500000010000800010100160100470300f00100150400c80000ef0100fa010006004327e90044003200b5000a00b600060042717a00180055000200c7000399a900d80104bfa80000000001
+header:  007acafe0109
+bb:  000f
+imei_length:  15
+proceed data.... 867198059978225
+RETURN_DATA {'gps_time': datetime.datetime(2021, 6, 16, 10, 30, 19), 'rtc_time': datetime.datetime(2021, 6, 16, 10, 30, 19), 'output_status': '', 'temp2': 0, 'temp1': 0, 'gps_satelit': 15, 'rpm': 0, 'speed': 85, 'altitude': 64, 'ela': '', 'state': '', 'latitude': '55.2948697', 'accuracy': 6, 'mileage': 17088, 'bl': '', 'digital_inp_stat1': 1, 'beacon': None, 'report_id': 0, 'longitude': '9.4303853', 'heading': 181, 'mv': '', 'ignition': 1, 'time': datetime.datetime(2021, 6, 16, 10, 30, 19), 'movement': 1, 'input_status': 29050, 'engine_on': 1}
+IO_DATA {'trip_odometer': 235945, 'int_battery_current': 50, 'gps_pdop': 10, 'int_battery_volt': 10217, 'ext_power_volt': 29050, 'digital_inp_stat1': 1, 'gps_hdop': 6, 'gnss_stat': 3, 'working_mode': 1, 'gsm_signal_lvl': 4, 'ignition': 1, 'deep_sleep': 0, 'total_odometer': 17088424, 'speedometer': 85, 'trip': 1, 'movement': 1}
+{'gps_data': [{'angle': 181, 'io_element_count': 16, 'satellites': 15, 'timestamp': datetime.datetime(2021, 6, 16, 10, 30, 19), 'altitude': 64, 'longitude': '9.4303853', 'priority': 0, 'latitude': '55.2948697', 'io_event_id': 0, 'io_data': {'trip_odometer': 235945, 'int_battery_current': 50, 'gps_pdop': 10, 'int_battery_volt': 10217, 'ext_power_volt': 29050, 'digital_inp_stat1': 1, '(env) gps
